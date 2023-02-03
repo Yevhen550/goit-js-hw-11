@@ -13,12 +13,13 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Yevhen 550 <alexander.repeta@gmail.com>",
+  "author": "Yevhen 550<alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+    "@swc/helpers": "^0.4.14",
     "axios": "^1.3.1",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6",
